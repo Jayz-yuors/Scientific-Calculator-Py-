@@ -18,6 +18,9 @@ A Scientific Calculator Implementation using Python.
 - **Structured Error Handling** to ensure robust input validation.
 - **Wide Scope of Applications** including academic, engineering, and computational use cases.
 
+  ---
+- ## PLEASE REFER THE FOLDER STRUCTURE OF **Calculator[Under this Repository]** - For implementing this project upon your Workplace.
+
 ---
 
 ## 🧭 Use Case
